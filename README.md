@@ -22,7 +22,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto  no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto do WANDERSON DE FARIAS no GitHub"/><br>
         <sub>
           <b>WANDERSON DE FARIAS</b>
         </sub>
